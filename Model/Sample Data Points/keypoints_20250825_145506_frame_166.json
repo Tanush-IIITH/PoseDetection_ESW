@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-08-25T14:55:06.341675",
+  "frame_number": 166,
+  "keypoints": {
+    "nose": {
+      "x": 355.3580627441406,
+      "y": 230.3414764404297,
+      "confidence": 0.9914723038673401,
+      "visible": true
+    },
+    "left_eye": {
+      "x": 377.6268615722656,
+      "y": 206.0287628173828,
+      "confidence": 0.985813319683075,
+      "visible": true
+    },
+    "right_eye": {
+      "x": 325.9855651855469,
+      "y": 205.9445343017578,
+      "confidence": 0.9881010055541992,
+      "visible": true
+    },
+    "left_ear": {
+      "x": 405.8570861816406,
+      "y": 221.22509765625,
+      "confidence": 0.8615217804908752,
+      "visible": true
+    },
+    "right_ear": {
+      "x": 281.9146423339844,
+      "y": 223.4002227783203,
+      "confidence": 0.9054608941078186,
+      "visible": true
+    },
+    "left_shoulder": {
+      "x": 482.8270263671875,
+      "y": 346.5837707519531,
+      "confidence": 0.969893753528595,
+      "visible": true
+    },
+    "right_shoulder": {
+      "x": 225.04315185546875,
+      "y": 353.3460693359375,
+      "confidence": 0.96317458152771,
+      "visible": true
+    },
+    "left_elbow": {
+      "x": 589.7188720703125,
+      "y": 452.212158203125,
+      "confidence": 0.28139162063598633,
+      "visible": false
+    },
+    "right_elbow": {
+      "x": 169.0008544921875,
+      "y": 469.2947692871094,
+      "confidence": 0.2588694095611572,
+      "visible": false
+    },
+    "left_hip": {
+      "x": 437.3882751464844,
+      "y": 480.0,
+      "confidence": 0.038896702229976654,
+      "visible": false
+    },
+    "right_hip": {
+      "x": 295.5359802246094,
+      "y": 480.0,
+      "confidence": 0.03596508130431175,
+      "visible": false
+    },
+    "left_knee": {
+      "x": 418.2960510253906,
+      "y": 470.30517578125,
+      "confidence": 0.004651735071092844,
+      "visible": false
+    },
+    "right_knee": {
+      "x": 315.8992919921875,
+      "y": 436.1660461425781,
+      "confidence": 0.004661546088755131,
+      "visible": false
+    }
+  },
+  "posture_analysis": {
+    "score": 100,
+    "issues": [],
+    "good_points": [
+      "head_aligned",
+      "shoulders_level"
+    ],
+    "visible_keypoints": 7,
+    "total_checks": 2,
+    "checks_passed": 2
+  }
+}

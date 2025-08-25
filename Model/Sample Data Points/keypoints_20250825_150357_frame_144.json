@@ -1,0 +1,92 @@
+{
+  "timestamp": "2025-08-25T15:03:57.465955",
+  "frame_number": 144,
+  "keypoints": {
+    "nose": {
+      "x": 3.6441192626953125,
+      "y": 218.939697265625,
+      "confidence": 0.7833995819091797,
+      "visible": true
+    },
+    "left_eye": {
+      "x": 26.67322540283203,
+      "y": 202.71701049804688,
+      "confidence": 0.9440587759017944,
+      "visible": true
+    },
+    "right_eye": {
+      "x": 0.0,
+      "y": 197.8245849609375,
+      "confidence": 0.295289009809494,
+      "visible": false
+    },
+    "left_ear": {
+      "x": 63.058143615722656,
+      "y": 221.38897705078125,
+      "confidence": 0.9066762924194336,
+      "visible": true
+    },
+    "right_ear": {
+      "x": 0.0,
+      "y": 210.72117614746094,
+      "confidence": 0.0245354101061821,
+      "visible": false
+    },
+    "left_shoulder": {
+      "x": 69.97930908203125,
+      "y": 318.78643798828125,
+      "confidence": 0.8920716047286987,
+      "visible": true
+    },
+    "right_shoulder": {
+      "x": 0.0,
+      "y": 300.3634948730469,
+      "confidence": 0.057185251265764236,
+      "visible": false
+    },
+    "left_elbow": {
+      "x": 8.522201538085938,
+      "y": 427.8992004394531,
+      "confidence": 0.498667448759079,
+      "visible": true
+    },
+    "right_elbow": {
+      "x": 11.510398864746094,
+      "y": 410.94635009765625,
+      "confidence": 0.0019893506541848183,
+      "visible": false
+    },
+    "left_hip": {
+      "x": 48.42110061645508,
+      "y": 480.0,
+      "confidence": 0.04430427402257919,
+      "visible": false
+    },
+    "right_hip": {
+      "x": 0.0,
+      "y": 480.0,
+      "confidence": 0.0048700603656470776,
+      "visible": false
+    },
+    "left_knee": {
+      "x": 49.94220733642578,
+      "y": 480.0,
+      "confidence": 0.016459165140986443,
+      "visible": false
+    },
+    "right_knee": {
+      "x": 4.881172180175781,
+      "y": 438.52301025390625,
+      "confidence": 0.0018234921153634787,
+      "visible": false
+    }
+  },
+  "posture_analysis": {
+    "score": 0,
+    "issues": [],
+    "good_points": [],
+    "visible_keypoints": 5,
+    "total_checks": 0,
+    "checks_passed": 0
+  }
+}

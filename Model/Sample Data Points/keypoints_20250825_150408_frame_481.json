@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-08-25T15:04:08.757235",
+  "frame_number": 481,
+  "keypoints": {
+    "nose": {
+      "x": 410.0105285644531,
+      "y": 217.44049072265625,
+      "confidence": 0.9927997589111328,
+      "visible": true
+    },
+    "left_eye": {
+      "x": 435.707275390625,
+      "y": 192.18124389648438,
+      "confidence": 0.9893513321876526,
+      "visible": true
+    },
+    "right_eye": {
+      "x": 381.1706237792969,
+      "y": 191.0508575439453,
+      "confidence": 0.9896212816238403,
+      "visible": true
+    },
+    "left_ear": {
+      "x": 466.91796875,
+      "y": 208.04409790039062,
+      "confidence": 0.9190694689750671,
+      "visible": true
+    },
+    "right_ear": {
+      "x": 338.5603332519531,
+      "y": 206.693603515625,
+      "confidence": 0.932243824005127,
+      "visible": true
+    },
+    "left_shoulder": {
+      "x": 544.7051391601562,
+      "y": 349.05645751953125,
+      "confidence": 0.9786508083343506,
+      "visible": true
+    },
+    "right_shoulder": {
+      "x": 250.69039916992188,
+      "y": 343.4656066894531,
+      "confidence": 0.9814266562461853,
+      "visible": true
+    },
+    "left_elbow": {
+      "x": 617.8694458007812,
+      "y": 480.0,
+      "confidence": 0.2426452934741974,
+      "visible": false
+    },
+    "right_elbow": {
+      "x": 167.38519287109375,
+      "y": 473.3833923339844,
+      "confidence": 0.26230382919311523,
+      "visible": false
+    },
+    "left_hip": {
+      "x": 474.9374694824219,
+      "y": 480.0,
+      "confidence": 0.0204513818025589,
+      "visible": false
+    },
+    "right_hip": {
+      "x": 311.45147705078125,
+      "y": 480.0,
+      "confidence": 0.02097792737185955,
+      "visible": false
+    },
+    "left_knee": {
+      "x": 464.2874755859375,
+      "y": 452.9864807128906,
+      "confidence": 0.0026540590915828943,
+      "visible": false
+    },
+    "right_knee": {
+      "x": 326.06494140625,
+      "y": 410.05987548828125,
+      "confidence": 0.002830332377925515,
+      "visible": false
+    }
+  },
+  "posture_analysis": {
+    "score": 100,
+    "issues": [],
+    "good_points": [
+      "head_aligned",
+      "shoulders_level"
+    ],
+    "visible_keypoints": 7,
+    "total_checks": 2,
+    "checks_passed": 2
+  }
+}
